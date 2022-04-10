@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black  
+Favorite food: beef steak
+Favorite musician/band: j.cole
+Favorite movie: wolf of wall street
+Requested grade in the course: 100
